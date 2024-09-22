@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.head1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+}
+.eng{
+    margin-left: 40px;
+}
+.head2{
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+li,.navbar{
+    display: flex;
+    align-items: center;
+    margin-left:10px;
+}
+h1{
+    font-size:100%;
+}
+.search{
+    border:solid black 1px;
+    border-radius: 5px;
+    width:200px;
+    padding:5px;
+}
+input{
+    outline: none;
+}
+img{
+    width: 100%;
+}

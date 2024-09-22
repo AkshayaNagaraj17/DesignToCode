@@ -66,5 +66,8 @@ ul:li{
     color: aliceblue;
 }
 .image{
-    margin-right:20%;
+    z-index: 1;
+}
+.dropdown{
+    z-index: 2;
 }
